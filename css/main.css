@@ -1,0 +1,266 @@
+
+ .header1{
+	overflow: hidden;
+   background-color: #006400;
+   h1
+   {
+	   color:#FFFFFF
+   }
+ }
+
+.logo{
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+	
+}
+.nav ul {
+	
+    float: right;
+    text-align: center;
+    padding: 0 53px 0 0;
+    margin: 0;
+}
+.nav li {
+  font-family: 'Oswald', sans-serif;
+  display: inline-block;
+  margin-right: -4px;
+}
+ 
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .1s background-color;
+}
+ 
+.nav a:hover {
+  color: #1CBFF1;
+}
+ 
+ .nav li {
+    width: 120px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 26px;
+    font-size: 1.5em;
+ }
+
+ .body{
+  background-color:#000;
+ }
+ 
+ .continer{
+	background-color:#000;
+	    padding: 1px 0 0 144px;
+ }
+
+
+ .res-h{
+	color:white;
+ }
+ .res-p{
+	color:white;
+ }
+ .button1{
+    background-color: #49CCFF;
+    border: none;
+    color: white;
+    padding: 7px 20px 6px 20px;
+    font-size: 20px;
+    margin: 7px 50px;
+    border-radius: 23px;
+ }
+ .field{
+  background-color:#000;
+  height:20px;
+  padding: 1px 1px 1px 40px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: antiquewhite;
+ }
+ .Login{
+   background-color: slategray;
+   padding: 1px 1px 40px 40px;
+   width: 250px;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+ }
+.resistaion-form{
+    background-color: #000;
+    height: 563px;
+    margin: 0 0 0 0;
+    padding: 19px 0 0px 221px;
+    color: white;
+}
+.reg-f-h{
+	height: 30px;
+    margin: auto;
+    padding: 46px 0 0px 179px;
+    color: white;
+    font-size: 29px;
+}
+h1 {
+margin-left: 51px;
+}
+form li {
+list-style: none;
+margin-bottom: 5px;
+}
+
+form ul li label{
+	
+float: left;
+clear: left;
+width: 100px;
+text-align: right;
+margin-right: 10px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+}
+
+form ul li input, select, span {
+float: left;
+margin-bottom: 10px;
+}
+
+form textarea {
+float: left;
+width: 350px;
+height: 150px;
+}
+
+
+.postBody {
+    background-color: #FFFFFF;
+    padding: 13px;
+    border-top: 1px solid #EAE6E6;
+    border-right: 1px solid #B5B2B2;
+    border-bottom: 2px solid #B5B2B2;
+    border-left: 1px solid #EAE6E6;
+    border-radius: 3px;
+    overflow-wrap: break-word;
+    text-align: -webkit-left;
+}
+.postBodydwt {
+  margin-top: 15px;
+}
+================================================
+===============================================
+.hdr {
+	text-align:center
+}
+form li {
+list-style: none;
+margin-bottom: 5px;
+}
+
+
+.reg-b{
+	background-image: url(bg-form-kr.jpg);
+    
+    padding: 50px 0 0 650px;
+}
+.box{
+    width: 400px;
+    border: 2px solid #00f3ff;
+    padding: 10px;
+    margin: 9px;
+    border-radius: 14px;
+}
+.sub{
+	width: 102px;
+    padding: 10px;
+    margin: 9px;
+    background: #49CCFF;
+    border-radius: 37px;
+    margin: 31px 0 0 166px;
+    border: 2px solid #49CCFF;
+    font-size: 19px;
+
+}
+.note{	       color: red;
+    font-size: 22px;
+    margin: 86px 419px 0 0;
+    width: 350px;
+}
+.frm{
+
+    margin: 74px 0 0px 348px;
+}
+
+
+/*tofa css*/
+
+#img_div{
+  width: 80%;
+  padding: 5px;
+  margin: 15px auto;
+  border: 1px solid #cbcbcb;
+}
+#img_div:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+img{
+  float: left;
+  
+}/*tofa css*/
+
+
+
+.hdr {
+	text-align:center
+}
+form li {
+list-style: none;
+margin-bottom: 5px;
+}
+
+.box{
+    width: 400px;
+    border: 2px solid #00f3ff;
+    padding: 10px;
+    margin: 9px;
+    border-radius: 14px;
+}
+.admin_sub{
+	
+	width: 102px;
+    padding: 10px;
+    margin: 9px;
+    background: #006400;
+    border-radius: 37px;
+    margin: 31px 0 0 166px;
+    border: 2px solid #49CCFF;
+    font-size: 19px;
+
+}
+
+.admin_frm{
+	height: 325px;
+    width: 550px;
+    /* text-align: center; */
+    margin: 150px 0 0 670px;
+    border: 2px solid;
+    /* background-image: url(.img/bg-form-kr.jpg); */
+    background-color: #006400;
+    padding: 50px 0 0 0;
+    border-radius: 20px;
+	
+}
+.box_admin{
+    width: 400px;
+    border: 2px solid #00f3ff;
+    padding: 10px;
+    margin: 9px;
+    border-radius: 14px;
+}
